@@ -1,4 +1,7 @@
 # hmda-lending-disparities
+
+![Approval rate by race](output/approval_rate_by_race.png)
+
 # Disparate Access to Credit: North Carolina's Residential Mortgage Market, 2018–2021
 
 Analysis code for a white paper from the Research, Policy, and Impact Center (RPIC)
